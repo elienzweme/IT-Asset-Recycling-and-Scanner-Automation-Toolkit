@@ -1,10 +1,17 @@
 # IT-Asset-Recycling-and-Scanner-Automation-Toolkit
-A PowerShell-based IT asset recycling automation toolkit designed to simplify asset intake, serial number capture, duplicate detection, lifecycle status tracking, destruction documentation, and audit logging.
 
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D4)
+![Automation](https://img.shields.io/badge/Automation-PowerShell-0078D4)
+![Language](https://img.shields.io/badge/Language-PowerShell-5391FE)
+![Data](https://img.shields.io/badge/Data-CSV-217346)
+![Asset Management](https://img.shields.io/badge/Asset%20Management-ITAM-FF8C00)
+![Workflow](https://img.shields.io/badge/Workflow-Asset%20Lifecycle-6A5ACD)
+![Audit](https://img.shields.io/badge/Audit-Logging-B22222)
+![Project](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+## PowerShell-based IT asset recycling and lifecycle automation toolkit supporting barcode/QR scanning, manual serial number entry, duplicate detection, status tracking, destruction documentation, and automated audit logging.
 
 # IT Asset Recycling and Scanner Automation Toolkit
-
-A PowerShell-based IT asset recycling automation toolkit designed to simplify asset intake, serial number capture, duplicate detection, lifecycle status tracking, destruction documentation, and audit logging.
 
 The project uses a barcode/QR scanner or manual serial number entry to register IT equipment into a centralized CSV inventory. A separate PowerShell workflow is used to update existing assets as they move through the recycling lifecycle.
 
