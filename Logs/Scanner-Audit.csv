@@ -1,0 +1,3 @@
+﻿Timestamp,Action,Record ID,Asset Type,Manufacturer,Serial Number,Status,Was Asset Destroyed,Date Destroyed,Operator
+"2026-07-15 00:15:27","ASSET_REGISTERED","REC-000001","Laptop","HP","5CG20225PZ","Ready for Recycling","No","","elien"
+"2026-07-15 00:20:54","ASSET_RECORD_UPDATED","REC-000001","Laptop","HP","5CG20225PZ","Recycling","No","","elien"
