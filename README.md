@@ -38,12 +38,6 @@
 
 The project uses a barcode/QR scanner or manual serial number entry to register IT equipment into a centralized CSV inventory. A separate PowerShell workflow is used to update existing assets as they move through the recycling lifecycle.
 
-## Project Documentation
-
-The complete project documentation contains the project purpose, folder structure, PowerShell commands, scanner workflow, duplicate detection process, recycling lifecycle, CSV architecture, audit logging, file-lock handling, and operating procedures.
-
-**[View the full IT Asset Recycling and Scanner Automation Toolkit Documentation](docs/IT-Asset-Recycling-and-Scanner-Automation-Toolkit-Documentation.pdf)**
-
 ---
 
 ## Project Overview
