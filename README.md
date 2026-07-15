@@ -11,9 +11,38 @@
 
 ## PowerShell-based IT asset recycling and lifecycle automation toolkit supporting barcode/QR scanning, manual serial number entry, duplicate detection, status tracking, destruction documentation, and automated audit logging.
 
+---
+
+<p align="center">
+  <img
+    src="docs/coverpageasset.png"
+    alt="IT Asset Recycling and Scanner Automation Toolkit Cover Page"
+    width="794"
+  />
+</p>
+
+<p align="center">
+  <strong>IT Asset Recycling & Scanner Automation Toolkit</strong><br>
+  PowerShell Automation | IT Asset Lifecycle | ITAM | Audit Logging
+</p>
+
+<p align="center">
+  <a href="docs/IT-Asset-Recycling-and-Scanner-Automation-Toolkit-Documentation.pdf">
+    <strong>📄 View Full Project Documentation (PDF)</strong>
+  </a>
+</p>
+
+---
+
 # IT Asset Recycling and Scanner Automation Toolkit
 
 The project uses a barcode/QR scanner or manual serial number entry to register IT equipment into a centralized CSV inventory. A separate PowerShell workflow is used to update existing assets as they move through the recycling lifecycle.
+
+## Project Documentation
+
+The complete project documentation contains the project purpose, folder structure, PowerShell commands, scanner workflow, duplicate detection process, recycling lifecycle, CSV architecture, audit logging, file-lock handling, and operating procedures.
+
+**[View the full IT Asset Recycling and Scanner Automation Toolkit Documentation](docs/IT-Asset-Recycling-and-Scanner-Automation-Toolkit-Documentation.pdf)**
 
 ---
 
